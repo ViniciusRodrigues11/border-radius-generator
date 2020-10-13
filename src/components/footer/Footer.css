@@ -1,0 +1,12 @@
+.footer-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100vw;
+    background: #a733ff;
+    color: #fff;
+    box-shadow: -12px -59px 106px -2px rgba(255,255,255,1);
+}
